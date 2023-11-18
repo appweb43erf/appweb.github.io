@@ -2,7 +2,7 @@
  * configuración en tu servidor de Firebase.  */
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyA5lBhEoXAWajTB-EA4jxpBJ7xqpou-VG0",
+apiKey: "AIzaSyA5lBhEoXAWajTB-EA4jxpBJ7xqpou-VG0",
   authDomain: "formaerf1-f6e5a.firebaseapp.com",
   projectId: "formaerf1-f6e5a",
   storageBucket: "formaerf1-f6e5a.appspot.com",
